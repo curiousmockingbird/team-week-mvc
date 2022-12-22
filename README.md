@@ -21,7 +21,7 @@ _The Botanical Adventure MVC is a game where users can search for a botanical it
 
 _Users can register and login to their personal account._
 
-_The MVC allows users to choose an ecosystem and the difficulty of the game. Then they're presented a splash page with a series of botanical items they may find in that specif ecosystem. When selecting an item, users can see more details for it (name, description, history, picture, symbolism, score, hint, etc.)._
+_The MVC allows users to choose an ecosystem and the difficulty of the game. Then they're presented a splash page with a series of botanical items they may find in that specif ecosystem. When selecting an item, users can see more details for it (name, description, history, picture, symbolism, score, hint, etc.)_
 
 ###### * _This MVC is relies on the data provided by the [Botanical Adventure API](https://github.com/curiousmockingbird/team-week-project.git)._
 
