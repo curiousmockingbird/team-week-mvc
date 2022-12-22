@@ -1,6 +1,6 @@
 # _Botanical Adventure API_
 
-#### By _**Helen Lehrer, Keisha Marie, Kelly Bruce, Tiberius Locket, and Harold Mesa**_
+#### By _**Harold Mesa, Helen Lehrer, Keisha Marie, Kelly Bruce, and Tiberius Locket**_
 
 #### _MVC for the Botanical Adventure game._
 
